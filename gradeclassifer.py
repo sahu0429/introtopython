@@ -7,7 +7,7 @@ elif grade >= 14:
     print("Good")
 elif grade >= 12:
     print("Fairly good")
-elif grade >= 10:
+elif grade >= 9.5:
     print("Pass")
 else:
     print("Fail")
